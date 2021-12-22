@@ -4,4 +4,4 @@
     const { counter, increment, decrement, reset } = useCounter(10);
 ```
 
-useCounter(), increment, decrement // reciben un paramatro numéricos
+useCounter(), increment, decrement // reciben un parametro numérico
